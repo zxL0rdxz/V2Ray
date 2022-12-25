@@ -1011,11 +1011,8 @@ esac
 clear
 while :; do
 	echo
-	echo "...........Script de instalação e script de gerenciamento V2Ray edit by @TALKERA .........."
+	echo "Instalação e Gerenciamento V2Ray"
 	echo
-	echo "MEU CANAL NO TELEEGRAM: t.me/ssh_t_project"
-	echo
-	echo "creditos: https://233v2.com"
 	echo
 	echo " 1. Instalar"
 	echo
